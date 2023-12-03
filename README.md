@@ -1,3 +1,9 @@
+# How to start this application ?
+Clone this app using github desktop or else download the zip file.
+Open in visual studio code.
+Open the terminal : npm install  or npm install -g
+                    npx json-server --watch db.json   // this is for server 
+for username and passwords : check the db.json file.
 # ChatApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
