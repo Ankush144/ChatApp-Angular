@@ -1,0 +1,32 @@
+#logo{
+    width:50px;
+    height: 50px;
+    margin-top: 1rem;
+}
+header{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+.login_anchor{
+    color: var(--bs-link-color);
+    text-decoration: none;
+    padding: 1rem;
+    margin: 1rem; 
+    cursor: pointer;
+}
+.right{
+    /* border:1px solid black; */
+    width: fit-content;
+    float: right;
+    margin-top: 1.7rem;
+}
+  
+.chatter-text{
+    color:cornflowerblue;
+    font-size :1.5rem;
+    margin-top:0rem;
+}
+.first_div{
+    display: flex;
+    align-items: center;
+}
